@@ -1,15 +1,13 @@
 ## 👋 Olá, eu sou a Gra!
-Sou apaixonada por tecnologia e estou em constante aprendizado. No meu GitHub, você vai encontrar projetos que estou desenvolvendo para treinar minhas habilidades em HTML, CSS e JavaScript, além de ideias criativas com propósito cristão.
+Sou apaixonada por tecnologia, sou iniciante e estou em constante aprendizado. No meu GitHub, você vai encontrar projetos que estou desenvolvendo para treinar minhas habilidades em HTML, CSS e JavaScript, além de ideias criativas com propósito cristão.
 
 📚 Atualmente estudando:
 
-HTML5 e CSS3
+HTML e CSS
 
 Flexbox e Grid Layout
 
-JavaScript básico
-
-UX e design de interfaces
+JavaScript 
 
 🚀 Busco crescer como desenvolvedora e criar projetos que impactem positivamente a vida das pessoas.
 
